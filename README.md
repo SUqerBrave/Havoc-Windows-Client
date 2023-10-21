@@ -236,7 +236,7 @@ havoc.exe
 
 
 
-![image-20231021155505703](D:\tools\20erkai\Havoc-Windows-Client\README.assets\image-20231021155505703.png)
+![image-20231021155505703](README.assets\image-20231021155505703.png)
 
 
 
