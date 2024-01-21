@@ -170,7 +170,7 @@ Current thread 0x00005280 (most recent call first):
 
 有2个方法进行修改。
 
-#### 方法1、设置 python 的路径  （不推荐  因为写死python路径会导致可移植性）
+#### 方法1、设置 python 的路径  （不推荐  因为写死python路径会导致可移植性不佳）
 
 修改 Client/Source/UserInterface/HavocUI.cpp line191：
 
